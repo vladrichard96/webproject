@@ -1,0 +1,30 @@
+div {
+opacity: 0.85;
+}
+.main {
+    padding-left: 125px;
+    padding-right: 125px;
+    margin-left: 125px;
+    margin-right: 125px;
+    background-color: rgba(0,0,0,0.7);
+}
+.text {
+    background-color: rgba(255,255,255,0.7);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.quote p {
+    font-size: 24px;
+}
+.img {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+#imgleft {
+    float:left;
+    padding-left: 0px;
+}
+#imgright {
+    float:right;
+    padding-right: 0px;
+}
